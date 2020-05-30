@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DD_ARFoundation_GooglePoly.unity
+    guid: 41a56fcdd67e443d495a6a0e83d29705
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3be0164783e4e0742b888eb1334684df,
+      type: 2}
